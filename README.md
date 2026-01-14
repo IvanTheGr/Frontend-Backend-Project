@@ -77,6 +77,7 @@ This can be done in postman
   ```
 - Then click Send
 
+
 2. Login User 
 - Click "+" for new request
 - Choose method "POST"
@@ -89,6 +90,7 @@ This can be done in postman
 }
 ```
 - Then click Send
+
 
 3. Create Todo
 - Click "+" for new request
@@ -107,6 +109,7 @@ This can be done in postman
   ```
 - Then click Send
 
+
 4. Get All Todo
 - Click "+" for new request
 - Choose method "GET"
@@ -115,6 +118,7 @@ This can be done in postman
 - Choose type : Bearer Token
 - Input the Token that is provided before when doing Login User
 - No need input inside body, then click Send
+
 
 5. Update Todo
 - Click "+" for new request
@@ -130,6 +134,7 @@ This can be done in postman
   "completed": true
   }
   ```
+
 
 6. Delete Todo
 - Click "+" for new request
