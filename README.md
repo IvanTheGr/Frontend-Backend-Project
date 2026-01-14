@@ -64,7 +64,7 @@ Then install dependencies :
 
 ## Testing
 This can be done in postman
-1. Register User 
+# 1. Register User 
 - Choose method "POST"
 - Input url "http://localhost:3000/api/auth/register"
 - Choose body then raw, insert this :
@@ -78,7 +78,7 @@ This can be done in postman
 - Then click Send
 
 
-2. Login User 
+# 2. Login User 
 - Click "+" for new request
 - Choose method "POST"
 - Input url "http://localhost:3000/api/auth/login"
@@ -92,7 +92,7 @@ This can be done in postman
 - Then click Send
 
 
-3. Create Todo
+# 3. Create Todo
 - Click "+" for new request
 - Choose method "POST"
 - Input url "http://localhost:3000/api/todos"
@@ -110,7 +110,7 @@ This can be done in postman
 - Then click Send
 
 
-4. Get All Todo
+# 4. Get All Todo
 - Click "+" for new request
 - Choose method "GET"
 - Input url "http://localhost:3000/api/todos"
@@ -120,7 +120,7 @@ This can be done in postman
 - No need input inside body, then click Send
 
 
-5. Update Todo
+# 5. Update Todo
 - Click "+" for new request
 - Choose method "PUT"
 - Input url "http://localhost:3000/api/todos/1"
@@ -136,7 +136,7 @@ This can be done in postman
   ```
 
 
-6. Delete Todo
+# 6. Delete Todo
 - Click "+" for new request
 - Choose method "DELETE"
 - Input url "http://localhost:3000/api/todos/1"
