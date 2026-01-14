@@ -77,7 +77,7 @@ This can be done in postman
   ```
 -Then click Send
 
-2. Login User \
+2. Login User 
 - Click "+" for new request
 - Choose method "POST"
 - Input url "http://localhost:3000/api/auth/login"
