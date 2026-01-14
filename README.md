@@ -41,17 +41,17 @@ in vite.config.ts
 
 2. For Backend Project
    
-##Table of Content
+## Table of Content
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Testing](#testing)
 
-##Prerequisites
+## Prerequisites
 Make sure the version of you have install : \
 - Node.js (v18)
 - npm
 
-##Installation 
+## Installation 
 Clone this repository : 
   ```
     https://github.com/IvanTheGr/Frontend-Backend-Project.git
@@ -62,7 +62,7 @@ Then install dependencies :
     npm install
 ```
 
-##Testing
+## Testing
 This can be done in postman
 1. Register User 
 - Choose method "POST"
