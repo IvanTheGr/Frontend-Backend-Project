@@ -7,7 +7,7 @@ This project contains Frontend project which shopify and Backend project which t
 - [Installation](#installation)
 - [Deployment](#deployment)
 
-## Instalation
+## Installation
 Clone this repository : 
   ```
     https://github.com/IvanTheGr/Frontend-Backend-Project.git
