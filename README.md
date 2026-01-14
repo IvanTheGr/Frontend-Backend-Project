@@ -7,7 +7,7 @@ This project contains Frontend project which shopify and Backend project which t
 - [Installation](#installation)
 - [Deployment](#deployment)
 
-##Instalation
+## Instalation
 Clone this repository : 
   ```
     https://github.com/IvanTheGr/Frontend-Backend-Project.git
@@ -25,7 +25,7 @@ To run the project, You can do :
 
 Then the app will be appear at localhost. \
 
-##Deployment
+## Deployment
 This project can be deployed on your own website, Netlify, Vercel, or any static hosting. \
 
 Steps:
@@ -35,16 +35,16 @@ Run npm run build
 ```
 And Ensure asset paths are correct
 ```
-base: './' in vite.config.ts
+base: './' 
 ```
-
+in vite.config.ts
 
 2. For Backend Project
    
 ##Table of Content
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- -[Testing](#testing)
+- [Testing](#testing)
 
 ##Prerequisites
 Make sure the version of you have install : \
@@ -64,7 +64,7 @@ Then install dependencies :
 
 ##Testing
 This can be done in postman
-1. Register User \
+1. Register User 
 - Choose method "POST"
 - Input url "http://localhost:3000/api/auth/register"
 - Choose body then raw, insert this :
@@ -75,7 +75,7 @@ This can be done in postman
   "password": "123456"
   }
   ```
--Then click Send
+- Then click Send
 
 2. Login User 
 - Click "+" for new request
