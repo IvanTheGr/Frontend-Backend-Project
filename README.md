@@ -2,7 +2,7 @@
 
 This project contains Frontend project which shopify and Backend project which todo-api.
 
-1. For Frontend Project
+# For Frontend Project
 ## Table of Contents
 - [Installation](#installation)
 - [Deployment](#deployment)
@@ -39,7 +39,7 @@ base: './'
 ```
 in vite.config.ts
 
-2. For Backend Project
+# For Backend Project
    
 ## Table of Content
 - [Prerequisites](#prerequisites)
