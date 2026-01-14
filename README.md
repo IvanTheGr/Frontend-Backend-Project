@@ -1,6 +1,6 @@
 ## Setup Project
 
-This project contains Frontend project which shopify and Backend project which todo-api.
+This project contains Frontend project which is shopify and Backend project which is todo-api.
 
 # For Frontend Project
 ## Table of Contents
