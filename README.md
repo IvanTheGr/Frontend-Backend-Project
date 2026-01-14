@@ -20,7 +20,7 @@ Then install dependencies :
 
 To run the project, You can do :
 ```
-    npm rub build
+    npm run build
 ```
 
 Then the app will be appear at localhost. \
